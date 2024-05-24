@@ -17,7 +17,7 @@
 ~ [File a bug](https://github.com/decentralized-identity/template-for-work-items/issues)
 ~ [Commit history](https://github.com/decentralized-identity/template-for-work-items/commits/main)
 
----
+Except where otherwise noted, this work by the [Decentralized Identity Foundation](https://identity.foundation/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
 
 ## Abstract
 
@@ -66,20 +66,9 @@ specified credential.
 A. Wright, H. Andrews, B. Hutton, G. Dennis. Status: 28 January 2020.
 Status: Internet-Draft.
 
-## Intellectual Property Rights
+## Patent Policy
 
-The following terms are derived directly from DIF's governance
-documents, specifically [DIF Project Charter Appendix A](https://github.com/decentralized-identity/org/blob/master/Org%20documents/Membership%20agreements/DIF%20Project%20Charter%20_4.0.2_appendix_A.pdf).
-
-### Copyright Information
-
-The copyright mode for all materials and content associated with this repository
-and development initiative are licensed under Creative Commons Attribution 4.0,
-available at https://creativecommons.org/licenses/by/4.0/legalcode.
-
-### Patent Licensing Terms
-
-The patent mode for specification is W3C Mode (2004), as detailed below:
+The Decentralized Identity Foundation has adopted the W3C Patent Policy (2004), as detailed below:
 
 - **Licensing Commitment.** Each contributor agrees to make available any of its
   Essential Claims, as defined in the W3C Patent Policy (available at
