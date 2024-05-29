@@ -7,8 +7,8 @@ This template is for use with DIF Working Group work items creating specificatio
 ## Template Instructions
 
 - Find/replace "template-for-work-items" with work item name
-- Update all of the links in AGENDA.md and [set up hackmd integration](https://hackmd.io/c/tutorials/%2Fs%2Flink-with-github)
-- Update CODEOWNERS
+- Update content in AGENDA.md and [set up hackmd integration](https://hackmd.io/s/link-with-github)
+  - Make sure you add the hackmd badge to the AGENDA.md file
 - Update CONTRIBUTING.md with any group-specific processes
 - Update the README (all content and links in this file)
 - Update github repo settings, including tags
